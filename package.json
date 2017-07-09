@@ -1,0 +1,21 @@
+{
+  "name": "npm-dropbox",
+  "version": "0.1.0",
+  "description": "A simple tool for adding npm modules to your project with drag & drop.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "modules",
+    "install",
+    "drag-n-drop"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.11"
+  }
+}
