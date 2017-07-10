@@ -1,6 +1,6 @@
 {
   "name": "npm-dropbox",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A simple tool for adding npm modules to your project with drag & drop.",
   "main": "index.js",
   "scripts": {
